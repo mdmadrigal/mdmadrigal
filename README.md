@@ -1,6 +1,4 @@
 <h1 align="center">Olá👋, eu sou o Mauricio Madrigal</h1>
-<h3 align="center">Analista Infraestrutura de TI</h3>
-
 
 - 📫 e-mail **mauriciomadrigal@gmail.com**
 
