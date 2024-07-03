@@ -1,17 +1,10 @@
 <h1 align="center">Olá👋, eu sou o Mauricio Madrigal</h1>
 <h3 align="center">Analista Infraestrutura de TI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmadrigal&label=Profile%20views&color=0e75b6&style=flat" alt="mdmadrigal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmadrigal" alt="mdmadrigal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Atualmente sou Analista de TI [AWS Terraform](https://github.com/mdmadrigal/Terraformcurso)
-
-- 🌱 Atualmente estou aprendendo **Terraform, AWS, Kubernets, Docker**
-
-- 📫 meu contato **mauriciomadrigal@gmail.com**
+- 📫 e-mail **mauriciomadrigal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
