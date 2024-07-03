@@ -2,8 +2,6 @@
 <h3 align="center">Analista Infraestrutura de TI</h3>
 
 
-
-
 - 📫 e-mail **mauriciomadrigal@gmail.com**
 
 <h3 align="left">Meu Linkedin:</h3>
