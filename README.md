@@ -1,11 +1,12 @@
 <h1 align="left">Mauricio Madrigal</h1>
 
-- 📫 e-mail **mauriciomadrigal@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-madrigal/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauriciomadrigal@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/mauriciomadrigal#1234)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mauriciomadrigal)
 
-<h3 align="left">Meu Linkedin:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mauricio madrigal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauricio madrigal" height="30" width="40" /></a>
-</p>
+
+
 
 
 
