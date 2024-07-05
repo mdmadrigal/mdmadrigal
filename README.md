@@ -1,4 +1,4 @@
-<h1 align="center">Mauricio Madrigal</h1>
+<h1 align="left">Mauricio Madrigal</h1>
 
 - 📫 e-mail **mauriciomadrigal@gmail.com**
 
