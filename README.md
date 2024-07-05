@@ -10,8 +10,9 @@
 
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmadrigal&show_icons=true&locale=en&theme=radical&title_color=FFFFFF" alt="Mauricio Madrigal's GitHub Stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmadrigal&show_icons=true&locale=en" alt="mdmadrigal" /></p>
+
 
 
 
